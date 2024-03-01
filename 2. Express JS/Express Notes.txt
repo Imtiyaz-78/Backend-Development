@@ -1,0 +1,11 @@
+
+
+
+==> What is Express JS:
+       1. Express JS is framework of Node JS.
+       2. It helps to create API easily with less codes, Node JS litte lengthy.
+       3. It provides Routes easily with less code 
+       4. We can create page easily.
+
+    2. Make Example with Express JS:
+         
